@@ -98,4 +98,4 @@ Table.Body = Body;
 Table.Row = Row;
 Table.Footer = Footer;
 
-export default Table();
+export default Table;

@@ -10,7 +10,7 @@ function DashboardFilter() {
       searchParams.set("last", "7");
       setSearchParams(searchParams);
     }
-  }, []);
+  }, [searchParams, setSearchParams]);
 
   return (
     <Filter

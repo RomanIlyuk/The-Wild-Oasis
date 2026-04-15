@@ -10,7 +10,7 @@ This project demonstrates a production-level architecture, focusing on scalabili
 ## 🚀 Live Demo
 
 👉 https://the-wild-oasis-riliu.netlify.app
-_(deployed on Vercel)_
+_(deployed on Netlify)_
 
 ---
 
